@@ -1,2 +1,2 @@
 @echo off
-mkdir %USERPROFILE%\.azure %USERPROFILE%\.config || exit /b 0
+mkdir %USERPROFILE%\aztredev01\.azure %USERPROFILE%\aztredev01\.config || exit /b 0
